@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd310193-c7d3-4e22-8ace-b1c06d04b118" name="Changes" comment="- Learned about data type conversion.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/conversionOperation.js" beforeDir="false" afterPath="$PROJECT_DIR$/basics/conversionOperation.js" afterDir="false" />
-    </list>
+    <list default="true" id="cd310193-c7d3-4e22-8ace-b1c06d04b118" name="Changes" comment="- Learned about operations." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1760439778881</updated>
-      <workItem from="1760439779780" duration="3582000" />
+      <workItem from="1760439779780" duration="3911000" />
     </task>
     <task id="LOCAL-00001" summary="- Initial Commit&#10;- Setting Up the WebStorm IDE!">
       <option name="closed" value="true" />
@@ -103,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760442431968</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="- Learned about operations.">
+      <option name="closed" value="true" />
+      <created>1760443429999</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760443429999</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +130,7 @@
     <MESSAGE value="- Learned about Variables.&#10;- const, let, var, console.log, console.table." />
     <MESSAGE value="- Learned about data type in js.&#10;- String, Integer, boolean, object, undefined, bigInt." />
     <MESSAGE value="- Learned about data type conversion." />
-    <option name="LAST_COMMIT_MESSAGE" value="- Learned about data type conversion." />
+    <MESSAGE value="- Learned about operations." />
+    <option name="LAST_COMMIT_MESSAGE" value="- Learned about operations." />
   </component>
 </project>
