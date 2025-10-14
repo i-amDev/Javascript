@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd310193-c7d3-4e22-8ace-b1c06d04b118" name="Changes" comment="- Initial Commit&#10;- Setting Up the WebStorm IDE!" />
+    <list default="true" id="cd310193-c7d3-4e22-8ace-b1c06d04b118" name="Changes" comment="- Learned about Variables.&#10;- const, let, var, console.log, console.table." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.datatypes.js.executor": "Run",
     "Node.js.index.js.executor": "Run",
     "Node.js.test.js.executor": "Run",
     "Node.js.variables.js.executor": "Run",
@@ -64,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1760439778881</updated>
-      <workItem from="1760439779780" duration="610000" />
+      <workItem from="1760439779780" duration="1474000" />
     </task>
     <task id="LOCAL-00001" summary="- Initial Commit&#10;- Setting Up the WebStorm IDE!">
       <option name="closed" value="true" />
@@ -74,7 +75,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760440113506</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="- Learned about Variables.&#10;- const, let, var, console.log, console.table.">
+      <option name="closed" value="true" />
+      <created>1760440442802</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760440442802</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- Initial Commit&#10;- Setting Up the WebStorm IDE!" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Initial Commit&#10;- Setting Up the WebStorm IDE!" />
+    <MESSAGE value="- Learned about Variables.&#10;- const, let, var, console.log, console.table." />
+    <option name="LAST_COMMIT_MESSAGE" value="- Learned about Variables.&#10;- const, let, var, console.log, console.table." />
   </component>
 </project>
