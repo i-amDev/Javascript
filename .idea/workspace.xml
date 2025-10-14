@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd310193-c7d3-4e22-8ace-b1c06d04b118" name="Changes" comment="- Learned about Variables.&#10;- const, let, var, console.log, console.table." />
+    <list default="true" id="cd310193-c7d3-4e22-8ace-b1c06d04b118" name="Changes" comment="- Learned about data type in js.&#10;- String, Integer, boolean, object, undefined, bigInt.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +36,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.conversionOperation.js.executor": "Run",
     "Node.js.datatypes.js.executor": "Run",
     "Node.js.index.js.executor": "Run",
     "Node.js.test.js.executor": "Run",
@@ -65,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1760439778881</updated>
-      <workItem from="1760439779780" duration="1474000" />
+      <workItem from="1760439779780" duration="2593000" />
     </task>
     <task id="LOCAL-00001" summary="- Initial Commit&#10;- Setting Up the WebStorm IDE!">
       <option name="closed" value="true" />
@@ -83,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760440442802</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="- Learned about data type in js.&#10;- String, Integer, boolean, object, undefined, bigInt.">
+      <option name="closed" value="true" />
+      <created>1760441359558</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760441359558</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- Initial Commit&#10;- Setting Up the WebStorm IDE!" />
     <MESSAGE value="- Learned about Variables.&#10;- const, let, var, console.log, console.table." />
-    <option name="LAST_COMMIT_MESSAGE" value="- Learned about Variables.&#10;- const, let, var, console.log, console.table." />
+    <MESSAGE value="- Learned about data type in js.&#10;- String, Integer, boolean, object, undefined, bigInt." />
+    <option name="LAST_COMMIT_MESSAGE" value="- Learned about data type in js.&#10;- String, Integer, boolean, object, undefined, bigInt." />
   </component>
 </project>
