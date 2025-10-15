@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd310193-c7d3-4e22-8ace-b1c06d04b118" name="Changes" comment="- Learned about functions in JS.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cd310193-c7d3-4e22-8ace-b1c06d04b118" name="Changes" comment="- Learned about control flows in JS." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +53,7 @@
     "Node.js.datesInJS.js.executor": "Run",
     "Node.js.functions.js.executor": "Run",
     "Node.js.index.js.executor": "Run",
+    "Node.js.loops.js.executor": "Run",
     "Node.js.nonPrimitiveDataTypes.js.executor": "Run",
     "Node.js.objects.js.executor": "Run",
     "Node.js.test.js.executor": "Run",
@@ -88,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1760439778881</updated>
       <workItem from="1760439779780" duration="8866000" />
-      <workItem from="1760502404916" duration="10267000" />
+      <workItem from="1760502404916" duration="11034000" />
     </task>
     <task id="LOCAL-00001" summary="- Initial Commit&#10;- Setting Up the WebStorm IDE!">
       <option name="closed" value="true" />
@@ -170,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760505971374</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="- Learned about control flows in JS.">
+      <option name="closed" value="true" />
+      <created>1760515529596</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1760515529596</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +205,7 @@
     <MESSAGE value="- Learned about date and time in JS." />
     <MESSAGE value="- Learned about objects in JS." />
     <MESSAGE value="- Learned about functions in JS." />
-    <option name="LAST_COMMIT_MESSAGE" value="- Learned about functions in JS." />
+    <MESSAGE value="- Learned about control flows in JS." />
+    <option name="LAST_COMMIT_MESSAGE" value="- Learned about control flows in JS." />
   </component>
 </project>
