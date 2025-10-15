@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd310193-c7d3-4e22-8ace-b1c06d04b118" name="Changes" comment="- Learned about objects in JS.">
+    <list default="true" id="cd310193-c7d3-4e22-8ace-b1c06d04b118" name="Changes" comment="- Learned about functions in JS.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Node.js.comparision.js.executor": "Run",
+    "Node.js.controlFlow.js.executor": "Run",
     "Node.js.conversionOperation.js.executor": "Run",
     "Node.js.datatypes.js.executor": "Run",
     "Node.js.datesInJS.js.executor": "Run",
@@ -87,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1760439778881</updated>
       <workItem from="1760439779780" duration="8866000" />
-      <workItem from="1760502404916" duration="3306000" />
+      <workItem from="1760502404916" duration="10267000" />
     </task>
     <task id="LOCAL-00001" summary="- Initial Commit&#10;- Setting Up the WebStorm IDE!">
       <option name="closed" value="true" />
@@ -161,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760504036346</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="- Learned about functions in JS.">
+      <option name="closed" value="true" />
+      <created>1760505971374</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1760505971374</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +197,7 @@
     <MESSAGE value="- Learned about non-primitive data types." />
     <MESSAGE value="- Learned about date and time in JS." />
     <MESSAGE value="- Learned about objects in JS." />
-    <option name="LAST_COMMIT_MESSAGE" value="- Learned about objects in JS." />
+    <MESSAGE value="- Learned about functions in JS." />
+    <option name="LAST_COMMIT_MESSAGE" value="- Learned about functions in JS." />
   </component>
 </project>
