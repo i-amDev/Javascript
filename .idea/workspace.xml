@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd310193-c7d3-4e22-8ace-b1c06d04b118" name="Changes" comment="- Background Color Switcher Project">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cd310193-c7d3-4e22-8ace-b1c06d04b118" name="Changes" comment="- BMI Calculator" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +95,7 @@
       <workItem from="1760439779780" duration="8866000" />
       <workItem from="1760502404916" duration="12108000" />
       <workItem from="1760590743272" duration="5323000" />
-      <workItem from="1760596193458" duration="8938000" />
+      <workItem from="1760596193458" duration="9313000" />
     </task>
     <task id="LOCAL-00001" summary="- Initial Commit&#10;- Setting Up the WebStorm IDE!">
       <option name="closed" value="true" />
@@ -219,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760607174879</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="- BMI Calculator">
+      <option name="closed" value="true" />
+      <created>1760609514122</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1760609514122</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,6 +258,7 @@
     <MESSAGE value="- Learned more about loops in JS." />
     <MESSAGE value="- Learned about filter, map and reduce in JS." />
     <MESSAGE value="- Background Color Switcher Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Background Color Switcher Project" />
+    <MESSAGE value="- BMI Calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="- BMI Calculator" />
   </component>
 </project>
