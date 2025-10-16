@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd310193-c7d3-4e22-8ace-b1c06d04b118" name="Changes" comment="- Learned about loops in JS.">
+    <list default="true" id="cd310193-c7d3-4e22-8ace-b1c06d04b118" name="Changes" comment="- Learned more about loops in JS.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/loops.js" beforeDir="false" afterPath="$PROJECT_DIR$/basics/loops.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,35 +45,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Node.js.comparision.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.controlFlow.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.conversionOperation.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.datatypes.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.datesInJS.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.functions.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.index.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.loops.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.nonPrimitiveDataTypes.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.objects.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.test.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.variables.js.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.comparision.js.executor": "Run",
+    "Node.js.controlFlow.js.executor": "Run",
+    "Node.js.conversionOperation.js.executor": "Run",
+    "Node.js.datatypes.js.executor": "Run",
+    "Node.js.datesInJS.js.executor": "Run",
+    "Node.js.filterMapAndReduce.js.executor": "Run",
+    "Node.js.functions.js.executor": "Run",
+    "Node.js.index.js.executor": "Run",
+    "Node.js.loops.js.executor": "Run",
+    "Node.js.nonPrimitiveDataTypes.js.executor": "Run",
+    "Node.js.objects.js.executor": "Run",
+    "Node.js.test.js.executor": "Run",
+    "Node.js.variables.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -91,7 +91,7 @@
       <updated>1760439778881</updated>
       <workItem from="1760439779780" duration="8866000" />
       <workItem from="1760502404916" duration="12108000" />
-      <workItem from="1760590743272" duration="3010000" />
+      <workItem from="1760590743272" duration="4320000" />
     </task>
     <task id="LOCAL-00001" summary="- Initial Commit&#10;- Setting Up the WebStorm IDE!">
       <option name="closed" value="true" />
@@ -189,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760518424179</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="- Learned more about loops in JS.">
+      <option name="closed" value="true" />
+      <created>1760593805196</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1760593805196</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +227,7 @@
     <MESSAGE value="- Learned about functions in JS." />
     <MESSAGE value="- Learned about control flows in JS." />
     <MESSAGE value="- Learned about loops in JS." />
-    <option name="LAST_COMMIT_MESSAGE" value="- Learned about loops in JS." />
+    <MESSAGE value="- Learned more about loops in JS." />
+    <option name="LAST_COMMIT_MESSAGE" value="- Learned more about loops in JS." />
   </component>
 </project>
