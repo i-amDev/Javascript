@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd310193-c7d3-4e22-8ace-b1c06d04b118" name="Changes" comment="- Guess the number.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cd310193-c7d3-4e22-8ace-b1c06d04b118" name="Changes" comment="- Unlimited Color">
+      <change beforePath="$PROJECT_DIR$/projects/UnlimitedColor/logic.js" beforeDir="false" afterPath="$PROJECT_DIR$/projects/UnlimitedColor/logic.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +35,9 @@
     &quot;accountId&quot;: &quot;5d2d31bc-1859-4f60-af4e-8eeb197445a3&quot;
   }
 }</component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -98,7 +101,7 @@
       <workItem from="1760502404916" duration="12108000" />
       <workItem from="1760590743272" duration="5323000" />
       <workItem from="1760596193458" duration="13857000" />
-      <workItem from="1760680427735" duration="2248000" />
+      <workItem from="1760680427735" duration="2567000" />
     </task>
     <task id="LOCAL-00001" summary="- Initial Commit&#10;- Setting Up the WebStorm IDE!">
       <option name="closed" value="true" />
@@ -244,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760630086043</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="- Unlimited Color">
+      <option name="closed" value="true" />
+      <created>1760698162007</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1760698162007</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,6 +291,7 @@
     <MESSAGE value="- BMI Calculator" />
     <MESSAGE value="- Digital Clock." />
     <MESSAGE value="- Guess the number." />
-    <option name="LAST_COMMIT_MESSAGE" value="- Guess the number." />
+    <MESSAGE value="- Unlimited Color" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Unlimited Color" />
   </component>
 </project>
