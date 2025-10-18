@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd310193-c7d3-4e22-8ace-b1c06d04b118" name="Changes" comment="- Promises in JS.">
+    <list default="true" id="cd310193-c7d3-4e22-8ace-b1c06d04b118" name="Changes" comment="- Classes in JS.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +62,7 @@
     "Node.js.datesInJS.js.executor": "Run",
     "Node.js.filterMapAndReduce.js.executor": "Run",
     "Node.js.functions.js.executor": "Run",
+    "Node.js.gettersAndSetters.js.executor": "Run",
     "Node.js.index.js.executor": "Run",
     "Node.js.logic.js.executor": "Run",
     "Node.js.loops.js.executor": "Run",
@@ -71,6 +72,7 @@
     "Node.js.test.js.executor": "Run",
     "Node.js.variables.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -104,7 +106,7 @@
       <workItem from="1760590743272" duration="5323000" />
       <workItem from="1760596193458" duration="13857000" />
       <workItem from="1760680427735" duration="8418000" />
-      <workItem from="1760763415988" duration="2929000" />
+      <workItem from="1760763415988" duration="4136000" />
     </task>
     <task id="LOCAL-00001" summary="- Initial Commit&#10;- Setting Up the WebStorm IDE!">
       <option name="closed" value="true" />
@@ -282,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760764710272</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="- Classes in JS.">
+      <option name="closed" value="true" />
+      <created>1760774665938</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1760774665938</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,6 +331,7 @@
     <MESSAGE value="- Unlimited Color" />
     <MESSAGE value="- Refactored the code." />
     <MESSAGE value="- Promises in JS." />
-    <option name="LAST_COMMIT_MESSAGE" value="- Promises in JS." />
+    <MESSAGE value="- Classes in JS." />
+    <option name="LAST_COMMIT_MESSAGE" value="- Classes in JS." />
   </component>
 </project>
