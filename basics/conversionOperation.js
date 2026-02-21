@@ -22,4 +22,3 @@ console.log("Multiplication " + (2 * 2))
 console.log("Power " + (2 ** 3))
 console.log("Division " + (2 / 2))
 console.log("Modulo " + (2 % 2))
-
