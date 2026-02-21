@@ -32,4 +32,3 @@ function handleObject(object) {
     console.log(`Hello ${object.name} your age is ${object.age}`);
 }
 handleObject(newObj);
-
