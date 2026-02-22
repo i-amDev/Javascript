@@ -77,5 +77,3 @@ async function consumePromiseFive () {
 }
 
 consumePromiseFive();
-
-
