@@ -8,7 +8,6 @@ class User {
     encryptPassword() {
         return `${this.password}abc`;
     }
-
 }
 
 const user = new User("Tony", "tony@gmail.com", 123);
